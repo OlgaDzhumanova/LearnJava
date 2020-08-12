@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9bfb3bb3-b6ed-4745-86a5-38d0642e4b5e" name="Default Changelist" comment="git">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lesson_2/ru/sbrf/Lesson_2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/sbrf/Lesson_2/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/OlgaDzhumanova/LearnJava" />
+        <option value="https://github.com/OlgaDzhumanova/Lesson_2" />
+      </set>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ru/sbrf/Lesson_2/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1frDtDnMJw19Pcs4hs1hW2D56Vq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearnJava/.idea" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lesson_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sbrf.Lesson_2.Main" />
+      <module name="Lesson_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbrf.Lesson_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bfb3bb3-b6ed-4745-86a5-38d0642e4b5e" name="Default Changelist" comment="" />
+      <created>1596967538498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596967538498</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="18" key="#Intentions" timestamp="1597138332143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="265" y="18" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1597138332143" />
+    <state x="478" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1597166971020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="478" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1597166971020" />
+    <state x="453" y="115" key="FileChooserDialogImpl" timestamp="1597220943618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="115" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1597220943617" />
+    <state x="551" y="263" width="456" height="204" key="Github.ShareDialog" timestamp="1597220252942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="551" y="263" width="456" height="204" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1597220252941" />
+    <state x="470" y="63" key="Github.UntrackedFilesDialog" timestamp="1597218657323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="470" y="63" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597218657323" />
+    <state width="1286" height="164" key="GridCell.Tab.0.bottom" timestamp="1597218397049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597218397049" />
+    <state width="1286" height="164" key="GridCell.Tab.0.center" timestamp="1597218397048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597218397048" />
+    <state width="1286" height="164" key="GridCell.Tab.0.left" timestamp="1597218397048">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597218397048" />
+    <state width="1286" height="164" key="GridCell.Tab.0.right" timestamp="1597218397049">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597218397049" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1597218536843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597218536843" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1596967904012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1596967904012" />
+    <state x="100" y="116" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597178875906">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="116" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1597178875906" />
+    <state x="474" y="266" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597176706383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="474" y="266" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1597176706383" />
+    <state x="329" y="162" width="672" height="677" key="run.anything.popup" timestamp="1597163318918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="329" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1597163318918" />
+    <state x="337" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1596970359593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="337" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1596970359593" />
+    <state x="503" y="156" key="svn.repositoryBrowser" timestamp="1597220542889">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="503" y="156" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1597220542889" />
+  </component>
+</project>
